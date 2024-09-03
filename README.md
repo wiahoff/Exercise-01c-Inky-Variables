@@ -2,8 +2,8 @@
 
 My name is:
 
-[Your Name]
+William
 
 My github username is:
 
-[Your Username]
+Hoffman
